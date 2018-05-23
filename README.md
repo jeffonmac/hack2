@@ -1,5 +1,4 @@
-# robofriends
-Tutorial for udemy course - React
+# Start Wars
 To run the project:
 
 1. Clone this repo
